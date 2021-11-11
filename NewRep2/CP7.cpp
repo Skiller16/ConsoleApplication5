@@ -1,8 +1,10 @@
 ﻿
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
     double h, e, l, o, ;
-    std::cout << "Hello Artem!\n";
+   cout << "Hello Artem!\n";
 }
